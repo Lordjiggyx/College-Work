@@ -1,0 +1,12 @@
+ Lap:1	00:00:04.9	Goal Reached,
+Lap:2	00:00:00.8	Goal Reached,
+Lap:3	00:00:00.7	Goal Reached,
+Lap:4	00:00:00.6	Goal Reached,
+Lap:5	00:00:00.6	Goal Reached,
+Lap:6	00:00:00.6	Goal Reached,
+Lap:7	00:00:00.6	Goal Reached,
+
+Stopped At:00:00:10.5,
+Average Time:00:00:01.4,
+Fastest Lap:4	Time: 00:00:00.6,
+Slowest Lap:1	Time: 00:00:04.9
