@@ -1,3 +1,3 @@
 # College-Work
 College projects 
-This repository contains the projects done in college all whihc are done in java 
+This repository contains the projects done in college all which are done in java 
